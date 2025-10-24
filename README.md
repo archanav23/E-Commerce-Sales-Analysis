@@ -1,1 +1,2 @@
 # E-Commerce-Sales-Analysis
+This project analyzes e-commerce sales data using Python to identify key trends in sales and profit. The dataset includes information about orders, categories, regions, and customer segments. Using Pandas and Plotly, visual insights like monthly sales, profit distribution, and category performance were generated. The analysis helps businesses understand their performance and make data-driven decisions. Overall, it highlights how analytics can improve e-commerce growth and profitability.
